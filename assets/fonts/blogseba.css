@@ -1,4 +1,9 @@
+
+/* BlogSeba Font Face */
 @font-face {
-  font-family: 'BlogSeba';
-  src: url('https://cdn.jsdelivr.net/gh/merazalveego//blogseba/assets/fonts/blogseba.ttf') format('truetype');
+  font-family: "BlogSeba";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./blogseba.ttf) format("truetype");
 }
