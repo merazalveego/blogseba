@@ -1,1 +1,4 @@
-
+@font-face {
+  font-family: 'BlogSeba';
+  src: url('/blogseba.ttf') format('truetype');
+}
